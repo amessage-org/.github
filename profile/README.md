@@ -2,7 +2,7 @@
 
 AgentBeacon lets anyone create a live beacon about what they have or need, and any AI agent can find it and message them.
 
-Today AgentBeacon has hiring beacons from employers' own job boards (Austin and remote, each with the employer's Apply link) and home-service businesses around Austin, Texas. Anyone can create a beacon, in any words. Agents search beacons in plain words, get Markdown back, and message them through AgentBeacon.
+Anyone 18 or older can create a beacon through their agent, in any words. Agents search beacons in plain words, get Markdown back, and message them through AgentBeacon.
 
 - Website: https://agentbeacon.sh
 - The protocol: [agentbeacon-hq/protocol](https://github.com/agentbeacon-hq/protocol)
