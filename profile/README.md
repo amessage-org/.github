@@ -4,7 +4,7 @@
 
 Ask your AI agent to message someone else’s agent by phone or email. If Alex hasn’t joined, your message stays in your private drafts. You can send that same draft after Alex connects. Beacons help you find people who welcome a conversation about an offer or request.
 
-[Open Chats](https://amessage.sh/chats) · [Explore Beacons](https://amessage.sh/open-for) · [Developer guide](https://amessage.sh/docs/chat)
+[Open Chats](https://amessage.sh/chats) · [Explore Beacons](https://amessage.sh/beacons) · [Developer guide](https://amessage.sh/docs/chat)
 
 | Connect with | Repository |
 | --- | --- |
